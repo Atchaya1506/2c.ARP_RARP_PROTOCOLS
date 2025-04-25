@@ -43,7 +43,8 @@ while True:
     print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-![Screenshot 2025-04-19 123537](https://github.com/user-attachments/assets/e3586cf5-e549-4762-9fa1-e97ad0a68d51)
+![Screenshot 2025-04-25 155640](https://github.com/user-attachments/assets/25758eea-6e95-4781-8f15-cf5c6ec988d9)
+
 ## PROGRAM - RARP
 CLIENT
 ```
